@@ -7,10 +7,6 @@
 This project illustrates GridView, ListView, and any other DataViews that were discussed in class. The purpose of this project is to demonstrate the use of these dataviews and leverage the rich of these views to make good designs in the future projects.
 
 
-## Packages Used
-
-This project has used the flutter font awesome icons that must be installed before running the project. [Read more](https://pub.dev/packages/font_awesome_flutter) on flutter font awesome icons
-
 ## Installation
 
 To run the project there is a need to have flutter, dart, and Visual Studio Code (vs code) installed on your PC:
